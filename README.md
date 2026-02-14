@@ -41,8 +41,29 @@ building products at the intersection of ai, growth, and execution.
 
 ## commit activity
 
-![commit activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sdntsng&theme=github-compact&hide_border=true&area=true)
-![profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sdntsng&theme=github)
+daily contributions (past 12 months):
+
+![daily contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=sdntsng&theme=github-compact&hide_border=true&area=true)
+
+weekly contributions (past 12 months):
+
+```mermaid
+xychart-beta
+    title "weekly contributions (past 12 months)"
+    x-axis [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53]
+    y-axis "contributions per week" 0 --> 550
+    bar [9,34,36,21,29,18,19,36,32,29,58,29,24,23,29,45,18,38,43,37,48,64,147,48,34,72,95,107,106,101,146,113,76,107,105,75,116,75,55,82,71,78,150,121,67,114,168,55,169,505,384,241,445]
+```
+
+prs / issues / reviews (past 12 months):
+
+```mermaid
+pie showData
+    title prs vs issues vs reviews (past 12 months)
+    "prs" : 23
+    "issues" : 180
+    "reviews" : 11
+```
 
 ## latest writing
 
