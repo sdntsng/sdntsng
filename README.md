@@ -19,7 +19,7 @@ building products at the intersection of ai, growth, and execution.
 ## open-source projects
 
 - ![typescript](https://img.shields.io/badge/-typescript-3178c6?style=flat-square&logo=typescript&logoColor=white) [sheety-crm](https://github.com/sdntsng/sheety-crm) - a stateless, open-source crm on google sheets.
-- ![python](https://img.shields.io/badge/-python-3776ab?style=flat-square&logo=python&logoColor=white) [momontum](https://github.com/sdntsng/momontum) - python project focused on execution and momentum tooling.
+- ![python](https://img.shields.io/badge/-python-3776ab?style=flat-square&logo=python&logoColor=white) [momontum](https://github.com/sdntsng/momontum) - python project for agentic trading and backtesting.
 - ![python](https://img.shields.io/badge/-python-3776ab?style=flat-square&logo=python&logoColor=white) [gh-audit](https://github.com/sdntsng/gh-audit) - python toolkit for github repo and activity audits.
 - ![repo](https://img.shields.io/badge/-repo-181717?style=flat-square&logo=github&logoColor=white) [distrosid](https://github.com/sdntsng/distrosid) - ai-native music distribution workflows.
 - ![typescript](https://img.shields.io/badge/-typescript-3178c6?style=flat-square&logo=typescript&logoColor=white) [open-mool/open-mool](https://github.com/open-mool/open-mool) - public infra for preserving cultural heritage.
@@ -33,7 +33,7 @@ building products at the intersection of ai, growth, and execution.
 - ![python](https://img.shields.io/badge/-python-3776ab?style=flat-square&logo=python&logoColor=white) [scriptkiddy](https://github.com/sdntsng/scriptkiddy) - scripts for google sheets, docs, and similar tools.
 - ![javascript](https://img.shields.io/badge/-javascript-f7df1e?style=flat-square&logo=javascript&logoColor=black) [lipi](https://github.com/sdntsng/lipi) - a handwritten assignment scribe.
 - ![repo](https://img.shields.io/badge/-repo-181717?style=flat-square&logo=github&logoColor=white) [scrollnet-mvp](https://github.com/sdntsng/scrollnet-mvp) - gamified video feedback mvp.
-- ![repo](https://img.shields.io/badge/-repo-181717?style=flat-square&logo=github&logoColor=white) [crawlmighty](https://github.com/sdntsng/crawlmighty).
+- ![repo](https://img.shields.io/badge/-repo-181717?style=flat-square&logo=github&logoColor=white) [crawlmighty](https://github.com/sdntsng/crawlmighty) - agentic spin-off of [crawl4ai](https://github.com/unclecode/crawl4ai).
 - ![repo](https://img.shields.io/badge/-repo-181717?style=flat-square&logo=github&logoColor=white) [clapp](https://github.com/sdntsng/clapp).
 - ![css](https://img.shields.io/badge/-css3-1572b6?style=flat-square&logo=css3&logoColor=white) [vacayy](https://github.com/sdntsng/vacayy).
 - ![repo](https://img.shields.io/badge/-repo-181717?style=flat-square&logo=github&logoColor=white) [vinci-commerce](https://github.com/sdntsng/vinci-commerce) - archived.
