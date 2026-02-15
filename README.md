@@ -1,4 +1,4 @@
-# hi, i'm siddhant singh
+# hi, i'm siddhant 
 
 building products at the intersection of ai, growth, and execution.
 
