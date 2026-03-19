@@ -1,6 +1,6 @@
 # hi, i'm siddhant 
 
-building products at the intersection of ai, growth, and execution.
+building products at the intersection of ai, media, and growth.
 
 [![now building](https://img.shields.io/badge/now_building-engram-111111?style=flat-square)](https://engramhq.com)
 [![previously](https://img.shields.io/badge/previously-vinci-1a73e8?style=flat-square)](https://tryvinci.com)
